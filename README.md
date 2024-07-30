@@ -11,6 +11,6 @@ jorginhoreisalmeida@gmail.com
 
 (+55) 11 4002-8922 
 
-https://tenor.com/pt-BR/view/sussy-goku-gif-4229381459978142137
+![](https://tenor.com/pt-BR/view/sussy-goku-gif-4229381459978142137)
 
 SEE YA! 😄
