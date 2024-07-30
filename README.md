@@ -1,16 +1,16 @@
-## Hi there 👋
+## welcome to my account! 👋
 
-<!--
-**joojinbr/joojinbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+my name is Jorge Dos Reis Lima
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-im studing in alura's online school
+-i use ths paltaform to organizate my created projects
+
+### contacts
+jorginhoreisalmeida@gmail.com 
+
+(+55) 11 4002-8922 
+
+https://tenor.com/pt-BR/view/sussy-goku-gif-4229381459978142137
+
+SEE YA! 😄
