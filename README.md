@@ -1,6 +1,6 @@
 ## welcome to my account! 👋
 
-my name is Jorge Dos Reis Lima
+my name is **Jorge Dos Reis Lima**!
 
 - im studing in alura's online school
 - i use ths paltaform to organizate my created projects
