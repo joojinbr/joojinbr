@@ -4,8 +4,8 @@ my name is **Jorge Dos Reis Lima**!
 
 - im studing in alura's online school
 - i use ths paltaform to organizate my created projects
-- i learned about using Python tools in www.mycompiler.com 
-
+- i learned about using Python tools in www.mycompiler.io
+  
 ### contacts
 
 jorgelimaff311@gmail.com
